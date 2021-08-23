@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://mrschenpeng.github.io/d9swap",
+  "homepage": "https://mrschenpeng.github.io/deswap",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
